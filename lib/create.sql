@@ -1,1 +1,1 @@
-CREATE TABLE bears (id INTEGER PRIMARY KEY, name text, age int, gender char(1), color text, temperament text, alive boolean);
+CREATE TABLE bears (id integer primary key, name text, age int, gender char(1), color text, temperament text, alive boolean);
