@@ -6,7 +6,6 @@ end
 
 def selects_all_bears_names_and_orders_in_alphabetical_order
   'SELECT * FROM bears'
-# binding.pry
 end
 
 def selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest
@@ -32,5 +31,3 @@ end
 def selects_bear_that_killed_Tim
   "Write your SQL query here"
 end
-
-selects_all_bears_names_and_orders_in_alphabetical_order
