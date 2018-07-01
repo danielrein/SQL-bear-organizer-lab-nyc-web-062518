@@ -5,4 +5,4 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive)
           ("Sergeant Brown", null, null, null, null, null)
           ("Melissa", null, null, null, null, null)
           ("Grinch", null, null, null, null, null)
-          ("Wendy", null, null, null, null, null)
+          ("Wendy", null, null, null, null, null);
