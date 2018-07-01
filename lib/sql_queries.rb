@@ -32,3 +32,5 @@ end
 def selects_bear_that_killed_Tim
   "Write your SQL query here"
 end
+
+selects_all_bears_names_and_orders_in_alphabetical_order
