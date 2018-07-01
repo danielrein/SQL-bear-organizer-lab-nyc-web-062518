@@ -26,5 +26,3 @@ class SQLRunner
     @db.execute_batch(sql)
   end
 end
-
-selects_all_bears_names_and_orders_in_alphabetical_order
